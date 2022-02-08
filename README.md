@@ -1,7 +1,7 @@
 - 🏳️‍🌈 Hi, I’m Julio Carvalho.
 - 👀 I’m interested in learning new things, currently learning C for college projects.
-- 🔭 I’m currently working at Latam Airlines Group S/A.
-- 🌱 I’m currently studying Computer Science at Anhembi Morumbi University.
+- 🔭 I’m currently working at Azul Brazilian Airlines.
+- 🌱 I’m currently studying Computer Science at Faculdade Descomplica.
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him/His.
 
