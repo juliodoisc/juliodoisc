@@ -1,5 +1,5 @@
 - 🏳️‍🌈 Hi, I’m Julio Carvalho.
-- 👀 I’m interested in learning new things, currently learning C for college projects.
+- 👀 I’m interested in learning new things, currently learning Java for college projects.
 - 🔭 I’m currently working at Azul Brazilian Airlines.
 - 🌱 I’m currently studying Computer Science at UniAmérica.
 - 😄 Pronouns: He/Him/His.
